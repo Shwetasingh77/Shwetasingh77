@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [E-Commerce Website](https://symphonious-maamoul-8675ea.netlify.app/)
 
 - 🌱 I’m currently learning **React.js**
-- 📫 How to reach me shwetasinghrajputbirpur@gmail.com@gmail.com
+- 📫 How to reach me **shwetasinghrajputbirpur@gmail.com**
 
 - ⚡ Fun fact **MEMER**
 - - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shweta-singh-7a40081b9/details/projects/](https://www.linkedin.com/in/shweta-singh-7a40081b9/details/projects/)
