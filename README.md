@@ -8,10 +8,11 @@
 - 🔭 I’m currently working on [E-Commerce Website](https://symphonious-maamoul-8675ea.netlify.app/)
 
 - 🌱 I’m currently learning **React.js**
+- 📫 How to reach me shwetasinghrajputbirpur@gmail.com@gmail.com
 
 - ⚡ Fun fact **MEMER**
 - - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shweta-singh-7a40081b9/details/projects/](https://www.linkedin.com/in/shweta-singh-7a40081b9/details/projects/)
-   <p align="left">
+<p align="left">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwetasingh77" alt="shwetasingh77" /></a> </p>
 
 
@@ -22,7 +23,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shweta-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shweta-singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shweta-singh-7a40081b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shweta-singh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shweta_s04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shweta_s04" height="30" width="40" /></a>
 </p>
 
